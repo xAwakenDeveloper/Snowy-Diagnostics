@@ -1,0 +1,4 @@
+F:\Mody GTA V\SnowyDiagnostics\SnowyDiagnostics\bin\Release\SnowyDiagnostics.dll
+F:\Mody GTA V\SnowyDiagnostics\SnowyDiagnostics\obj\Release\SnowyDiagnostics.csproj.AssemblyReference.cache
+F:\Mody GTA V\SnowyDiagnostics\SnowyDiagnostics\obj\Release\SnowyDiagnostics.csproj.CoreCompileInputs.cache
+F:\Mody GTA V\SnowyDiagnostics\SnowyDiagnostics\obj\Release\SnowyDiagnostics.dll
