@@ -27,11 +27,11 @@
 <p align="center">
 ⚡ <b>Performance friendly</b> – I tried my best to keep it light<br>
 🎮 <b>Shows Current/Min/Max FPS</b> – Always know your frame performance<br>
-📊 <b>Shows your current framerate</b> – Keep track of smoothness in real time<br>
+📊 <b>Shows current framerate</b> – Keep track of smoothness in real time<br>
 🗺️ <b>Shows currently loaded scene</b> – Know which scene of the game is active<br>
 🧩 <b>Shows amount of loaded objects</b> – See how many objects are in the scene<br>
-👀 <b>Shows objects you are currently looking at</b> – Track what’s in your view<br>
-👆 <b>Ability to drag the menu window</b> – Move it anywhere on screen<br>
+👀 <b>Shows objects you're looking at</b> – Track what’s in your view<br>
+👆 <b>Ability to drag the window</b> – Move it anywhere on screen<br>
 ✨ <b>And much more...</b> – Extra features to explore
 </p>
 
