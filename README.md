@@ -6,6 +6,20 @@
   <strong>Snowy Diagnostics</strong> is a lightweight mod for <em>My Winter Car</em> that displays performce data in real-time. Perfect for game debugging and tracking performace issues.
 </p>
 
+<div align="center">
+
+  <img src="https://img.shields.io/github/v/release/xAwakenDeveloper/Snowy-Diagnostics?style=for-the-badge&color=0DA8F0" alt="Release Badge" height="20">
+
+  <img src="https://img.shields.io/github/commit-activity/y/xAwakenDeveloper/Snowy-Diagnostics?style=for-the-badge&color=28C76F" alt="Commits Badge" height="20">
+
+  <img src="https://img.shields.io/github/issues/xAwakenDeveloper/Snowy-Diagnostics?style=for-the-badge&color=C3FF00" alt="Issues Badge" height="20">
+
+  <img src="https://img.shields.io/github/issues-pr/xAwakenDeveloper/Snowy-Diagnostics?style=for-the-badge&color=FFD700" alt="Pull Requests Badge" height="20">
+
+  <img src="https://img.shields.io/github/license/xAwakenDeveloper/Snowy-Diagnostics?style=for-the-badge&color=FFA500" alt="License Badge" height="20">
+
+</div>
+
 ---
 
 <h1 align="center">Features</h2>
