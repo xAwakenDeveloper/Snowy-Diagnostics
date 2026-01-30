@@ -7,14 +7,11 @@
       "RelativeMoniker": "D:0:0:{D32FC044-D2C5-7E98-535C-C1AC7203C8A9}|SnowyDiagnostics\\SnowyDiagnostics.csproj|solutionrelative:snowydiagnostics\\snowydiagnostics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D32FC044-D2C5-7E98-535C-C1AC7203C8A9}|SnowyDiagnostics\\SnowyDiagnostics.csproj|f:\\mody gta v\\snowydiagnostics\\snowydiagnostics\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D32FC044-D2C5-7E98-535C-C1AC7203C8A9}|SnowyDiagnostics\\SnowyDiagnostics.csproj|F:\\Mody GTA V\\SnowyDiagnostics\\snowydiagnostics\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D32FC044-D2C5-7E98-535C-C1AC7203C8A9}|SnowyDiagnostics\\SnowyDiagnostics.csproj|solutionrelative:snowydiagnostics\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SnowyDiagnostics||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D32FC044-D2C5-7E98-535C-C1AC7203C8A9}|SnowyDiagnostics\\SnowyDiagnostics.csproj|f:\\mody gta v\\snowydiagnostics\\snowydiagnostics\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|984ae51a-4b21-44e7-822c-dd5e046893ef"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,8 +32,7 @@
               "ToolTip": "F:\\Mody GTA V\\SnowyDiagnostics\\SnowyDiagnostics\\SnowyDiagnostics.csproj",
               "RelativeToolTip": "SnowyDiagnostics\\SnowyDiagnostics.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-01-29T20:33:06.071Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-29T20:33:06.071Z"
             },
             {
               "$type": "Document",
@@ -48,8 +44,7 @@
               "RelativeToolTip": "SnowyDiagnostics\\Properties\\AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T18:03:59.698Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-29T18:03:59.698Z"
             },
             {
               "$type": "Document",
@@ -59,7 +54,7 @@
               "RelativeDocumentMoniker": "SnowyDiagnostics\\SnowyDiagnostics.cs",
               "ToolTip": "F:\\Mody GTA V\\SnowyDiagnostics\\SnowyDiagnostics\\SnowyDiagnostics.cs",
               "RelativeToolTip": "SnowyDiagnostics\\SnowyDiagnostics.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQBAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-29T13:44:32.354Z",
               "EditorCaption": ""
